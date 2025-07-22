@@ -1,0 +1,21 @@
+.success-message{
+    color: #008000;
+    font-weight: bold;
+}
+
+.error-message{
+    color: #ff0000;
+    font-weight: bold;
+}
+
+.Polaris-DropZone--sizeLarge {
+    min-height: 2.5rem;
+}
+
+.Polaris-DropZone-FileUpload--large {
+    padding: 0;
+}
+
+.csv-file-name {
+    margin-top:10px;
+}
